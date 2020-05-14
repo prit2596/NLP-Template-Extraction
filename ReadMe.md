@@ -1,4 +1,7 @@
+
 # Problem Description: 
+
+![spacy version](https://img.shields.io/badge/spacy-v2.2.0-blue) ![allennlp version](https://img.shields.io/badge/allennlp-v1.0.0rc1-orange) ![nltk version](https://img.shields.io/badge/nltk-v3.2.5-brightgreen) ![nlp](https://img.shields.io/badge/-nlp-brown) ![Information Extraction](https://img.shields.io/badge/-Information%20Extraction-royalblue)
 
 Information Extraction (IE) is a important part in the field of Natural Language Processing (NLP) and linguistics. It’s widely used for tasks such as Question Answering Systems, Machine Translation, Entity Extraction, Event Extraction, Named Entity Linking, Coreference Resolution, Relation Extraction, etc. The scope of this project is to perform Information extraction using Template (slot) filling on the given unstructured textual data (such as Wikipedia Articles, Articles from Newspaper etc.). The goal was to achieve the task by applying various NLP techniques and creating a pipeline where we input unstructured text and the output we get are extracted templates containing information from the given data.
 
