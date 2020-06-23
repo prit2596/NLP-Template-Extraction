@@ -18,7 +18,7 @@ Information Extraction (IE) is a important part in the field of Natural Language
    **Sentence(s)**: In 2017, Amazon acquired Whole Foods Market for US$13.4 billion, which vastly increased Amazon's presence as a brickand-mortar retailer.\
   **Extracted Template**: BUY(“Amazon”, “Whole Foods Market”, “US$13.7 billion”, “”, “”)
 
-* **Template#2: BUY(** *Buyer, Item, Price, Quantity, Source* **)**:\
+* **Template#2: WORK(** *Person, Orgganization, Position, Location **)**:\
   For this template we are expected to extract job title relation between person and organizations.  
     *  “Person”, person entity involved in the event. 
     * “Organization”, organization for which the person works for. 
